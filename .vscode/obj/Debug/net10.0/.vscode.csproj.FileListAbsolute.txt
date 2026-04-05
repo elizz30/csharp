@@ -1,0 +1,14 @@
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\bin\Debug\net10.0\.vscode.exe
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\bin\Debug\net10.0\.vscode.deps.json
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\bin\Debug\net10.0\.vscode.runtimeconfig.json
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\bin\Debug\net10.0\.vscode.dll
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\bin\Debug\net10.0\.vscode.pdb
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\.vscode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\.vscode.AssemblyInfoInputs.cache
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\.vscode.AssemblyInfo.cs
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\.vscode.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\.vscode.dll
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\refint\.vscode.dll
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\.vscode.pdb
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\.vscode.genruntimeconfig.cache
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\.vscode\obj\Debug\net10.0\ref\.vscode.dll

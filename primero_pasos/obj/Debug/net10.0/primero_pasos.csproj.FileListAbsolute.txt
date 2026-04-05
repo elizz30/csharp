@@ -12,3 +12,4 @@ c:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\primero_pasos\o
 c:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\primero_pasos\obj\Debug\net10.0\primero_pasos.pdb
 c:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\primero_pasos\obj\Debug\net10.0\primero_pasos.genruntimeconfig.cache
 c:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\primero_pasos\obj\Debug\net10.0\ref\primero_pasos.dll
+c:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\primero_pasos\obj\Debug\net10.0\primero_pasos.sourcelink.json

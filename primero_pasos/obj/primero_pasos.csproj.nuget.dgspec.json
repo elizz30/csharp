@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\primero_pasos.csproj": {}
+    "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\primero_pasos.csproj": {}
   },
   "projects": {
-    "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\primero_pasos.csproj": {
+    "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\primero_pasos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\primero_pasos.csproj",
+        "projectUniqueName": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\primero_pasos.csproj",
         "projectName": "primero_pasos",
-        "projectPath": "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\primero_pasos.csproj",
+        "projectPath": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\primero_pasos.csproj",
         "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\obj\\",
+        "outputPath": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\primero_pasos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config"

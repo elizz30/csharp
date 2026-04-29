@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\HolaMundo.csproj": {}
+    "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\HolaMundo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\HolaMundo.csproj": {
+    "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\HolaMundo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\HolaMundo.csproj",
+        "projectUniqueName": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\HolaMundo.csproj",
         "projectName": "HolaMundo",
-        "projectPath": "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\HolaMundo.csproj",
+        "projectPath": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\HolaMundo.csproj",
         "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\obj\\",
+        "outputPath": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\HolaMundo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\bin\Debug\net10.0\Numeros.exe
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\bin\Debug\net10.0\Numeros.deps.json
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\bin\Debug\net10.0\Numeros.runtimeconfig.json
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\bin\Debug\net10.0\Numeros.dll
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\bin\Debug\net10.0\Numeros.pdb
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\Numeros.AssemblyInfoInputs.cache
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\Numeros.AssemblyInfo.cs
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\Numeros.csproj.CoreCompileInputs.cache
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\Numeros.sourcelink.json
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\Numeros.dll
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\refint\Numeros.dll
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\Numeros.pdb
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\Numeros.genruntimeconfig.cache
+C:\Users\elias\OneDrive\Documentos\trabajos_vsc\lenguajes\csharp\documentacion_windows\Numeros\obj\Debug\net10.0\ref\Numeros.dll

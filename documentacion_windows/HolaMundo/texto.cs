@@ -61,7 +61,14 @@
 
 //DESAFIO de buscar y reemplazar en cadenas
 
-// string songLyrics = "You say Goodbye, and I say Mamichula";
-// Console.WriteLine(songLyrics.StartsWith("You"));
-// Console.WriteLine(songLyrics.StartsWith("goodbye"));
+void desafioTexto()
+{
+
+    string songLyrics = "You say Goodbye, and I say Mamichula";
+    Console.WriteLine(songLyrics.StartsWith("You"));
+    Console.WriteLine(songLyrics.StartsWith("goodbye"));
+
+}
+
+desafioTexto();
 

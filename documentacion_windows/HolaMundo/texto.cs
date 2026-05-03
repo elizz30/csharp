@@ -112,6 +112,8 @@ desafioTexto();
 //1. mostrar un mensaje en la consola
 void repaso1()
 {
+
+    Console.ReadKey();
     Console.WriteLine(
         """
         Estoy que me muero de sueño, pero quiero seguir aprendiendo a programar, asi que vamos a darle!
@@ -123,3 +125,5 @@ void repaso1()
 }
 
 repaso1();
+
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\Tuplas\\Tuplas.csproj": {}
+    "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\tuplas\\Tuplas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\Tuplas\\Tuplas.csproj": {
+    "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\tuplas\\Tuplas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\Tuplas\\Tuplas.csproj",
+        "projectUniqueName": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\tuplas\\Tuplas.csproj",
         "projectName": "Tuplas",
-        "projectPath": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\Tuplas\\Tuplas.csproj",
+        "projectPath": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\tuplas\\Tuplas.csproj",
         "packagesPath": "C:\\Users\\elias\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\Tuplas\\obj\\",
+        "outputPath": "C:\\Users\\elias\\OneDrive\\Documentos\\trabajos_vsc\\lenguajes\\csharp\\documentacion_windows\\tuplas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\elias\\AppData\\Roaming\\NuGet\\NuGet.Config"
